@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SoundMeter3 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SoundMeter3 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
